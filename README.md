@@ -1,3 +1,17 @@
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=prespafree1&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=prespafree1&theme=blue-green)
+
+<p align="center">
+  <a href="https://github.com/prespafree1/Data-Manipulation-and-Machine-Learning-Using-Pandas-Python">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/prespafree1/Data-Manipulation-and-Machine-Learning-Using-Pandas-Python.svg">
+  </a>
+  <a href="https://github.com/prespafree1/Data-Manipulation-and-Machine-Learning-Using-Pandas-Python">
+    <img alt="GitHub forks" src="https://img.shields.io/github/forks/prespafree1/Data-Manipulation-and-Machine-Learning-Using-Pandas-Python.svg">
+  </a>
+    <a href="https://github.com/prespafree1/Data-Manipulation-and-Machine-Learning-Using-Pandas-Python/graphs/contributors" alt="Contributors">
+        <img src="https://img.shields.io/github/contributors/prespafree1/Data-Manipulation-and-Machine-Learning-Using-Pandas-Python" /></a>
+</p>
+
 # Data Manipulation and Machine Learning Using Pandas-Python
 
 ## Introduction
