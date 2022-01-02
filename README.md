@@ -54,5 +54,5 @@ The image below will show a scatter plot of cylinders vs. mpg columns. <br>
 The image below shows a linear regression plot with x data the acceleration column and y data the mpg column. <br>
 ![](images/line.png)
 
-https://prespafree1.github.io/Data-Manipulation-and-Machine-Learning-Using-Pandas-Python/
+https://abedinsherifi.github.io/Data-Manipulation-and-Machine-Learning-Using-Pandas-Python/
 
